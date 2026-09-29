@@ -1,0 +1,3 @@
+echo "day 1 code "
+echo " day 2 code"
+echo "day 3 code"
